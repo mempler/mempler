@@ -47,8 +47,8 @@ in various Programming Languages.
 <img alt="Teamspeak 3" width="35px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//ts3.png"/>
 
 ## Contact me
-Discord: Mempler#6666 \
-Twitter: [@Mempler](https://twitter.com/Mempler) \
+Discord: @mempler \
+Twitter/X: [@Mempler](https://twitter.com/Mempler) \
 Twitch:  [Mempler](https://twitch.tv/Mempler) \
 Email:   [me@mempler.de](mailto:me@mempler.de)
 
