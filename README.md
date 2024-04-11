@@ -1,11 +1,10 @@
-## About me
-Hey, I'm Robin also known as Mempler.
-I'm a 21 year old developer from Germany who develops
-in various Programming Languages.
+## About Me
 
-I'm actively looking being hired, please contact me via E-Mail!
+Hey, I'm Robin, also known as Mempler. I'm a 21-year-old developer from Germany proficient in various programming languages.
 
-## Languages, IDEs and Tools
+I'm currently seeking job opportunities, so feel free to reach out to me via email!
+
+## Languages, IDEs, and Tools
 
 ### Languages
 
@@ -31,7 +30,7 @@ I'm actively looking being hired, please contact me via E-Mail!
 <img alt="Jetbrains CLion + RustExtension" width="30px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//clion.png"/>
 <img alt="Intellij Idea" width="30px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//intellij-idea.svg"/>
 
-### Tools (not all included)
+### Tools (selected)
 
 <img align="left" alt="MariaDB" width="30px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//mariadb.png"/>
 <img align="left" alt="Redis" width="30px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//redis.svg"/>
@@ -48,7 +47,7 @@ I'm actively looking being hired, please contact me via E-Mail!
 <img align="left" alt="React" width="35px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//react.svg"/>
 <img alt="Teamspeak 3" width="35px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//ts3.png"/>
 
-## Contact me
+## Contact Me
 Discord: @mempler \
 Twitter/X: [@Mempler](https://twitter.com/Mempler) \
 Twitch:  [Mempler](https://twitch.tv/Mempler) \
