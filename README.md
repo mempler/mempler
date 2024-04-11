@@ -51,8 +51,3 @@ Discord: @mempler \
 Twitter/X: [@Mempler](https://twitter.com/Mempler) \
 Twitch:  [Mempler](https://twitch.tv/Mempler) \
 Email:   [me@mempler.de](mailto:me@mempler.de)
-
-<img align="left" alt="Chart" width="200px" src="https://wakatime.com/share/@6bfe8d67-5e33-48f2-8cc3-6985809cd8bd/5405000e-dd06-47fa-b23e-01feba270c31.svg"/>
-<img align="left" alt="Chart" width="200px" src="https://wakatime.com/share/@6bfe8d67-5e33-48f2-8cc3-6985809cd8bd/028299d4-6cbd-40e6-9e1f-c26fcc36e397.svg"/>
-<img align="left" alt="Chart" width="200px" src="https://wakatime.com/share/@6bfe8d67-5e33-48f2-8cc3-6985809cd8bd/ac748a95-562b-41cc-8dc2-bdfc49c26bba.svg"/>
-<img align="center" alt="Chart" height="300px" width="640px" src="https://wakatime.com/share/@6bfe8d67-5e33-48f2-8cc3-6985809cd8bd/0969a948-f558-42e6-9efd-0b6a1f966f6f.svg"/>
