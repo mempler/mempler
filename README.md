@@ -12,14 +12,10 @@ I'm currently seeking job opportunities, so feel free to reach out to me via ema
 <img style="padding: 1.5px" align="left" alt="CSharp" width="26px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//csharp.svg"/>
 <img style="padding: 1.5px" align="left" alt="C++" width="25px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//cpp.svg"/>
 <img style="padding: 1.5px" align="left" alt="C" width="30px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//c.svg"/>
-<img style="padding: 1.5px" align="left" alt="Go" width="20px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//go.svg"/>
-<img style="padding: 1.5px" align="left" alt="Java" width="16px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//java.svg"/>
-<img style="padding: 1.5px" align="left" alt="Python 3" width="26px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//py.svg"/>
-<img style="padding: 1.5px" align="left" alt="PHP" width="35px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//php.svg"/>
+<img style="padding: 1.5px" align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//py.svg"/>
 <img style="padding: 1.5px" align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//html5.svg"/>
 <img style="padding: 1.5px" align="left" alt="Typescript" width="26px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//typescript.svg"/>
 <img style="padding: 1.5px" align="left" alt="Javascript" width="26px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//javascript.svg"/>
-<img style="padding: 1.5px" alt="Sass" width="31px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//sass.svg"/>
 
 
 ### IDEs
