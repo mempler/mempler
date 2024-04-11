@@ -25,7 +25,7 @@ I am currently using or am familiar with several active Integrated Development E
 
 <img align="left" alt="VSCode" width="30px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//visual-studio-code.svg"/>
 <img align="left" alt="Visual Studio 2019" width="30px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//vs2019.svg"/>
-<img alt="Jetbrains Rider" width="30px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//rider.png"/>
+<img align="left" alt="Jetbrains Rider" width="30px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//rider.png"/>
 <img align="left" alt="Jetbrains CLion + RustExtension" width="30px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//clion.png"/>
 <img alt="Intellij Idea" width="30px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//intellij-idea.svg"/>
 
@@ -44,7 +44,7 @@ These are a selection of tools I actively use or have used in the past. They enc
 <img align="left" alt="Meson" width="35px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//meson.svg"/>
 <img align="left" alt="Git" width="35px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//git.svg"/>
 <img align="left" alt="Powershell" width="35px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//powershell.svg"/>
-<img  alt="Gitkraken" width="35px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//gitkraken.svg"/>
+<img alt="Gitkraken" width="35px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//gitkraken.svg"/>
 
 ### Frameworks
 
