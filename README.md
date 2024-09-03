@@ -1,6 +1,6 @@
 ## About Me
 
-Hey, I'm Robin, also known as Mempler. I'm a 21-year-old developer from Germany proficient in various programming languages.
+Hey, I'm Robin, also known as Mempler. I'm a 21-year-old a rust developer @ [EDT](https://github.com/eon-com) from Germany, proficient in various programming languages.
 
 <!-- I'm currently seeking job opportunities, so feel free to reach out to me via email at [contact@mempler.de](mailto:contact@mempler.de)! -->
 
