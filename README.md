@@ -57,6 +57,6 @@ I'm also acquainted with the following frameworks, which I've utilized in past p
 ## Contact Me
 
 Discord: @mempler \
-Twitter/X: [@Mempler](https://twitter.com/Mempler) \
+Bluesky: [@mempler.de](https://bsky.app/profile/mempler.de) \
 Twitch:  [Mempler](https://twitch.tv/Mempler) \
 Email:   [me@mempler.de](mailto:me@mempler.de)
